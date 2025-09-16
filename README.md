@@ -33,7 +33,7 @@
 - 🌐 GitHub: [github.com/Kashifmujeeb17](https://github.com/Kashifmujeeb17)
 - 🌐 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
 - 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
-- 💻 Portfolio: [kashifmujeeb.github.io](https://kashifmujeeb.github.io) *(Coming Soon!)*
+- 💻 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app) 
 
 ---
 
