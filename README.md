@@ -30,8 +30,6 @@
 
 ---
 
-
----
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
@@ -39,6 +37,7 @@
 </p>
 
 ---
+
 ### 💻 Most Used Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
