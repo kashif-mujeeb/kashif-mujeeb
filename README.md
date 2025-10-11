@@ -39,8 +39,11 @@
 
 ## 📈 GitHub Stats
 ![Kashifmujeeb17's Stats](https://github-readme-stats.vercel.app/api?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![Kashifmujeeb17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kashifmujeeb17&theme=vue-dark&hide_border=true)
+
 ![Kashifmujeeb17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 💡 *“The only way to do great work is to love what you do.” — Steve Jobs*
