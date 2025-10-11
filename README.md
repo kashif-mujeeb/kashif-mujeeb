@@ -14,12 +14,12 @@
 ---
 
 ## 🛠️ Skills & Tools
-- **Programming Languages**: Python, Java, JavaScript, C#
+- **Programming Languages**: Python, JavaScript, 
+- AI/ML: NLP, Scikit-learn, Pandas, NumPy, TensorFlow (basics)
 - **Web Development**: HTML, CSS, React, .NET, Flask
 - **Databases**: MySQL, SQL Server
 - **Networking**: Configuring routers, switches, firewalls
-- **Others**: Git, TFS, APIs, AI/ML fundamentals
-
+- **Others**: Git, TFS, APIs, 
 ---
 
 ## 🌟 Highlights
