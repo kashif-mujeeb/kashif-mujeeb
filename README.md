@@ -46,7 +46,7 @@
 
 ---
 ### 💻 Most Used Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 💡 *“The only way to do great work is to love what you do.” — Steve Jobs*
