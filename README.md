@@ -1,11 +1,12 @@
 # 👋 Hello, World! I'm Kashif Mujeeb
 
-🚀 **Software Engineer | Web Developer | Tech Innovator**
+🚀 **AI Engineer | Software Developer | Tech Innovator at United Bank Limited**
 
 ---
 
 ## 🧐 About Me
 - 🎓 Graduated with a **Bachelor's degree in Computer Systems Engineering**.
+- 🤖 Currently working as an **AI Engineer at United Bank Limited (UBL)**, applying data-driven intelligence to real-world business challenges.
 - 💡 Passionate about **Python**, **AI/ML**, and **Web Development**.
 - 🤝 I enjoy **collaborating on projects** that create real-world impact.
 - 📚 Continuously exploring new **technologies** and expanding my skillset.
@@ -24,8 +25,8 @@
 ## 🌟 Highlights
 - 🔭 Developed an **Automated HR Recommendation System** for my Final Year Project using NLP techniques.
 - 🌐 Built projects like an **Online Job Portal** and responsive web apps.
-- 🌱 Currently diving deeper into **React** and **Next.js** for modern web development.
-- 🌍 Active contributor to tech events and **IEEE Student Branch activities**.
+- ⚡ I love building intelligent systems, automating workflows, and teaching tech concepts to others.
+- 🌱 Always exploring modern frameworks like React, Next.js, and FastAPI to level up my development stack.
 
 ---
 
@@ -38,11 +39,14 @@
 ---
 
 ## 📈 GitHub Stats
-![Kashifmujeeb17's Stats](https://github-readme-stats.vercel.app/api?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Kashifmujeeb17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kashifmujeeb17&theme=vue-dark&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashifmujeeb17&theme=vue-dark&hide_border=true" />
+</p>
 
 ---
-![Kashifmujeeb17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
 💡 *“The only way to do great work is to love what you do.” — Steve Jobs*
