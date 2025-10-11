@@ -30,14 +30,8 @@
 
 ---
 
-## 💬 Let's Connect!
-- 🌐 GitHub: [github.com/Kashifmujeeb17](https://github.com/Kashifmujeeb17)
-- 🌐 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
-- 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
-- 💻 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app) 
 
 ---
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
@@ -49,6 +43,15 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
+
 ---
-###
+
+## 💬 Let's Connect!
+- 🌐 GitHub: [github.com/Kashifmujeeb17](https://github.com/Kashifmujeeb17)
+- 🌐 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
+- 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
+- 💻 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app) 
+
+---
+
 💡 *“The only way to do great work is to love what you do.” — Steve Jobs*
