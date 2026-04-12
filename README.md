@@ -83,7 +83,7 @@
 
 ## 💬 Let's Connect!
 
-- 🐙 GitHub: [github.com/Kashifmujeeb17](https://github.com/Kashifmujeeb17)
+- 🐙 GitHub: [github.com/Kashifmujeeb17](https://github.com/kashif-mujeeb)
 - 💼 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
 - 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
 - 💻 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app)
