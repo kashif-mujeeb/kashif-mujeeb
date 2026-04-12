@@ -5,11 +5,11 @@
 
 ## 🧐 About Me
 
-- 🎓 Graduated with a **Bachelor's degree in Computer Systems Engineering**.
-- 🤖 Currently working as an **Assistant Manager DataScience & AI  at United Bank Limited (UBL)**, applying data-driven intelligence to real-world business challenges.
-- 💡 Passionate about **Python**, **AI/ML**, and **Web Development**.
-- 🤝 I enjoy **collaborating on projects** that create real-world impact.
-- 📚 Continuously exploring new **technologies** and expanding my skillset.
+- 🎓 B.E. Computer Systems Engineering.
+- 📚 M.S. Computer Science & IT (In Progress) 
+- 🤖 **Assistant Manager – Data Science & AI at UBL**
+- 💡 AI/ML, Python & Web Development enthusiast.
+- 🌍 Building real-world, impactful systems
 
 ---
 
