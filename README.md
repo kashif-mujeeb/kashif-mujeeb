@@ -52,16 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=Kashifmujeeb17&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kashifmujeeb17&theme=tokyonight" />
-</p>
-
----
-
-
 ### 🐍 Contribution Snake
 
 <picture>
