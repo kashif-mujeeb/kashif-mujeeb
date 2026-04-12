@@ -61,13 +61,6 @@
 
 ---
 
-### 💻 Most Used Languages
-
-> _Note: Only public repositories are counted here._
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-</p>
 
 ---
 
