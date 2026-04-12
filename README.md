@@ -62,8 +62,6 @@
 ---
 
 
----
-
 ### 🐍 Contribution Snake
 
 <picture>
