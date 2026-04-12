@@ -1,36 +1,35 @@
-# 👋 Hi, I'm Kashif Mujeeb
-
-**AI Engineer | Software Developer | United Bank Limited**
+# 👋 Hello, World! I'm Kashif Mujeeb
+🚀 **AI Engineer | Software Developer | Tech Innovator at United Bank Limited**
 
 ---
 
 ## 🧐 About Me
 
-- 🎓 B.E Computer Systems Engineering
-- 🤖 AI Engineer at United Bank Limited (UBL)
-- 💡 Passionate about Python, AI/ML & Web Development
-- 🤝 Open to collaboration on impactful real-world projects
-- 🌱 Exploring React, Next.js, and FastAPI
+- 🎓 Graduated with a **Bachelor's degree in Computer Systems Engineering**.
+- 🤖 Currently working as an **AI Engineer at United Bank Limited (UBL)**, applying data-driven intelligence to real-world business challenges.
+- 💡 Passionate about **Python**, **AI/ML**, and **Web Development**.
+- 🤝 I enjoy **collaborating on projects** that create real-world impact.
+- 📚 Continuously exploring new **technologies** and expanding my skillset.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-| Category | Tools |
-|---|---|
-| Languages | Python, JavaScript |
-| AI / ML | NLP, Scikit-learn, Pandas, NumPy, TensorFlow |
-| Web & DB | React, Flask, .NET, HTML, CSS, MySQL, SQL Server |
-| DevOps | Git, TFS, REST APIs |
-| Networking | Routers, Switches, Firewalls |
+- **Programming Languages**: Python, JavaScript
+- **AI/ML**: NLP, Scikit-learn, Pandas, NumPy, TensorFlow (basics)
+- **Web Development**: HTML, CSS, React, .NET, Flask
+- **Databases**: MySQL, SQL Server
+- **Networking**: Configuring routers, switches, firewalls
+- **Others**: Git, TFS, APIs
 
 ---
 
 ## 🌟 Highlights
 
-- 🔭 **HR Recommendation System** — Final Year Project using NLP to match candidates with roles
-- 🌐 **Online Job Portal** — Full-stack responsive web app
-- ⚡ **AI at UBL** — Data-driven intelligence applied to real banking challenges
+- 🔭 Developed an **Automated HR Recommendation System** for my Final Year Project using NLP techniques.
+- 🌐 Built projects like an **Online Job Portal** and responsive web apps.
+- ⚡ I love building intelligent systems, automating workflows, and teaching tech concepts to others.
+- 🌱 Always exploring modern frameworks like React, Next.js, and FastAPI to level up my development stack.
 
 ---
 
@@ -38,11 +37,24 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=Kashifmujeeb17&theme=vue-dark&hide_border=true" />
 </p>
 
-### 💻 Top Languages
+---
 
-> _Note: This card only reflects public repositories. My private work at UBL is not included._
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github contribution snake animation" src="github-snake.svg" />
+</picture>
+
+---
+
+### 💻 Most Used Languages
+
+> _Note: Only public repositories are counted here._
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashifmujeeb17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
@@ -50,13 +62,13 @@
 
 ---
 
-## 💬 Connect
+## 💬 Let's Connect!
 
 - 🐙 GitHub: [github.com/Kashifmujeeb17](https://github.com/Kashifmujeeb17)
 - 💼 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
 - 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
-- 🌐 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app)
+- 💻 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app)
 
 ---
 
-> _"The only way to do great work is to love what you do." — Steve Jobs_
+💡 *"The only way to do great work is to love what you do." — Steve Jobs*
