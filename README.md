@@ -6,7 +6,7 @@
 
 ## 🧐 About Me
 
-- 🎓 B.Sc. Computer Systems Engineering
+- 🎓 B.E Computer Systems Engineering
 - 🤖 AI Engineer at United Bank Limited (UBL)
 - 💡 Passionate about Python, AI/ML & Web Development
 - 🤝 Open to collaboration on impactful real-world projects
