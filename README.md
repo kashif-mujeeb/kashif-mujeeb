@@ -6,10 +6,10 @@
 ## 🧐 About Me
 
 - 🎓 B.E. Computer Systems Engineering.
-- 📚 M.S. Computer Science & IT (In Progress) 
+- 📚 M.S. Computer Science & IT (In Progress). 
 - 🤖 **Assistant Manager – Data Science & AI at UBL**
 - 💡 AI/ML, Python & Web Development enthusiast.
-- 🌍 Building real-world, impactful systems
+- 🌍 Building real-world, impactful systems.
 
 ---
 
