@@ -63,13 +63,17 @@
 
 ---
 
-## 💬 Let's Connect!
+<!-- Social connections -->
+<div align="center">
 
-- 🐙 GitHub: [github.com/Kashifmujeeb17](https://github.com/kashif-mujeeb)
-- 💼 LinkedIn: [linkedin.com/in/kashif-mujeeb-64789616a](https://www.linkedin.com/in/kashif-mujeeb-64789616a/)
-- 📧 Email: [kashif.mujeeb911@gmail.com](mailto:kashif.mujeeb911@gmail.com)
-- 💻 Portfolio: [kashifmujeeb.netlify.app](https://kashifmujeeb.netlify.app)
+## 🌐 Connect with Me 🍬
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://kashif.mujeeb.netlify.app)
+[![Discord](https://img.shields.io/badge/kashifv3-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/kashifv3)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kashif.hero786)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kashif_mujeeb786)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kashif-mujeeb-64789616a)
 
----
+</div>
+
 
 💡 *"The only way to do great work is to love what you do." — Steve Jobs*
