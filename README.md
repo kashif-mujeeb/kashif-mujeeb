@@ -60,15 +60,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ---
 
-## 🌟 Highlights
-
-
-![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashif-mujeeb&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashif-mujeeb&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-mujeeb&layout=compact&theme=tokyonight&hide_border=true)
-
----
-![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
 
 ---
 
