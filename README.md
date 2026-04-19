@@ -68,7 +68,8 @@
 </div>
 
 <div align="center">
-![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
+
+ ![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
 
 </div>
 
