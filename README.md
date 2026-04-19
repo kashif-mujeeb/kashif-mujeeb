@@ -64,10 +64,10 @@
 
 ## 🌟 Highlights
 
-- 🔭 Developed an **Automated HR Recommendation System** for my Final Year Project using NLP techniques.
-- 🌐 Built projects like an **Online Job Portal** and responsive web apps.
-- ⚡ I love building intelligent systems, automating workflows, and teaching tech concepts to others.
-- 🌱 Always exploring modern frameworks like React, Next.js, and FastAPI to level up my development stack.
+
+![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashif-mujeeb&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashif-mujeeb&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-mujeeb&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 ![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
