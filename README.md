@@ -58,13 +58,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
----
-
-![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
-
 
 ---
-
 <!-- Social connections -->
 <div align="center">
 
@@ -77,5 +72,9 @@
 
 </div>
 
+---
+
+
+![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
 
 💡 *"The only way to do great work is to love what you do." — Steve Jobs*
