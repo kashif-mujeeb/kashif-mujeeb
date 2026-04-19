@@ -72,8 +72,6 @@
 
 </div>
 
----
-
 
 ![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
 
