@@ -60,6 +60,8 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ---
 
+![snake gif](https://github.com/kashif-mujeeb/kashif-mujeeb/blob/output/github-snake-dark.svg)
+
 
 ---
 
