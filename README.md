@@ -3,27 +3,12 @@
 
 ---
 
+<!-- Stats -->
 <div align="center">
-
-## Kashif Mujeeb's GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kashif-mujeeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kashif-mujeeb&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-mujeeb&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-mujeeb&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-mujeeb&theme=tokyonight&hide_border=true" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashif-mujeeb&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
