@@ -1,14 +1,15 @@
-<div align="center">
-
 # 👋 Hello, World! I'm Kashif Mujeeb
 
 ### 🚀 IT Solution Associate at UBL | AI Engineer | Software Developer
 
 *Building intelligent solutions that turn ideas into impact.*
 
-![Profile views](https://komarev.com/ghpvc/?username=kashif-mujeeb&label=Profile%20Views&color=7c3aed&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://kashif.mujeeb.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashifmujeeb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kashif_mujeeb786)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashifmujeeb199@gmail.com)
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=kashif-mujeeb&label=Profile%20Views&color=7c3aed&style=flat)
 
 ---
 
@@ -86,21 +87,6 @@
 
 </div>
 
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://kashif.mujeeb.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashifmujeeb)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kashif_mujeeb786)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashifmujeeb199@gmail.com)
-
-</div>
-
 ---
 
-<div align="center">
-
 *💡 "The only way to do great work is to love what you do." - Steve Jobs*
-
-</div>
